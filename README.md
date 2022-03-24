@@ -1,6 +1,7 @@
 # OddEvenGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+It is a simple game of odd and even numbers built in Angular. It is part of a Angular course and was one of the practice tasks.
 
 ## Development server
 
